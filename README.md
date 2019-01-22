@@ -1,1 +1,1 @@
-# Latex template letter for formal response to the reviewer's comments.
+# Latex template for formal response to the reviewer's comments.
